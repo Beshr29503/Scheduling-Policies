@@ -44,7 +44,8 @@ make
 ```bash
 <mode>
 <policy or policy list>
-<simulation_end> <number_of_processes>
+<simulation_end> 
+<number_of_processes>
 <process_1>
 <process_2>
 ...
